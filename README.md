@@ -1,4 +1,4 @@
-# AAS Creator v1.0
+# AAS Creator v1.1.2
 
 **A simple and efficient tool for creating AAS files for Quake 3 based maps**
 
